@@ -4,7 +4,7 @@ A mobile web application where you can manage your budget: you have a list of tr
 
 ## Demo
 
-[Budget](https://budget-app-microverse-20221013.herokuapp.com/)
+[Budget-app](https://budget-app20221013.herokuapp.com//)
 
 ## Built With
 
@@ -16,21 +16,17 @@ A mobile web application where you can manage your budget: you have a list of tr
 
 ## Instalation
 
-```
-- Clone repository
+- [Clone repository](git@github.com:franclobo/Budget-app.git)
 
 - bundle install
 
 - rails db:create db:migrate db:seed
 
-- rails server (open server in [localhost](http://))
-```
+- rails server (open server in [localhost](http://localhost:3000/))
 
 ## Testing
 
-```
 - rspec
-```
 
 ## Author
 
@@ -54,7 +50,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- [Curriculum-Rails](https://github.com/microverseinc/curriculum-rails/blob/main/capstone/rails_capstone.md) from Microverse.
+- Microverse
 - Original [design](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=) idea by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella).
 
 ## 📝 License
